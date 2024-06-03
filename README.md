@@ -1,7 +1,7 @@
 # Modding-Us-
-Modding Us est une application pour mobile 
-(Android) et non IOS. 
-Qui fait référence à Sumberged qui est sur PC 
+Modding Us is a mobile application
+(Android) and not IOS.
+Which refers to Sumberged which is on PC 
 https://github.com/Yougha789/Submerged
 
 
